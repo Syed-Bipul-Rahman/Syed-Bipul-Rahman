@@ -6,7 +6,7 @@
 **Get to Know Me: My Current Work, Learning Goals, Collaboration Interests, and More :**
 
 - 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m currently learning **Cross platform apps Development**
+- 🌱 I’m currently learning **Android apps Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about Anyrhing, I will reply within a second if I am alive.
 - 📫 How to reach me: syedbipulrahman2@gmail.com
