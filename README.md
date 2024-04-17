@@ -3,14 +3,6 @@ I'm Syed Bipul, a passionate software engineer dedicated to crafting innovative 
 
 📬 Got a project in mind or simply want to connect? Feel free to drop me a line at syedbipulrahman2@gmail.com. I'm always eager to lend a hand, share insights, or geek out over tech. Let's connect and embark on this exciting journey together!
 
-**Get to Know Me: My Current Work, Learning Goals, Collaboration Interests, and More :**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about Anyhing, I will reply within a second if I am alive.
-- 📫 How to reach me: syedbipulrahman2@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I Always try to learn something new and then sleep till it store in the brain 😎
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hacker.bipul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syed_bipul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-bipul-rahman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sb-rahman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbrahman12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sbrahman_) 
 
