@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Syed Bipul, a dedicated mobile app developer passionate about crafting sleek and efficient solutions for both Android and iOS platforms. With a strong foundation in Java, Kotlin, and Flutter, I specialize in building modern, user-centric applications that push boundaries and deliver exceptional experiences.
+I'm Syed Bipul, a passionate software engineer dedicated to crafting innovative solutions for modern web and mobile applications. With a strong foundation in Java, Kotlin, and Flutter, I specialize in building robust, user-centric software that drives impact and exceeds expectations.
 
 📬 Got a project in mind or simply want to connect? Feel free to drop me a line at syedbipulrahman2@gmail.com. I'm always eager to lend a hand, share insights, or geek out over tech. Let's connect and embark on this exciting journey together!
 
