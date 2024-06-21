@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Syed Bipul, a passionate software engineer dedicated to crafting innovative solutions for modern web and mobile applications. With a strong foundation in Java, Kotlin, and Flutter, I specialize in building robust, user-centric software that drives impact and exceeds expectations.
+I'm Syed Bipul, a passionate software engineer dedicated to crafting innovative solutions for modern mobile applications. With a strong foundation in Java, Kotlin, and Flutter, I specialize in building robust, user-centric software that drives impact and exceeds expectations.
 
 📬 Got a project in mind or simply want to connect? Feel free to drop me a line at syedbipulrahman2@gmail.com. I'm always eager to lend a hand, share insights, or geek out over tech. Let's connect and embark on this exciting journey together!
 
@@ -28,4 +28,3 @@ I'm Syed Bipul, a passionate software engineer dedicated to crafting innovative 
 ---
 [![](https://visitcount.itsvg.in/api?id=Syed-Bipul-Rahman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
