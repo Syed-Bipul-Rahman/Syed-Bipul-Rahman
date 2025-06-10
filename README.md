@@ -23,8 +23,8 @@ I specialize in developing mobile applications, web applications, and delving in
 
 ## 🌟 **Notable Projects**
 
-### [Own Web Server](https://github.com/Syed-Bipul-Rahman/own-web-server)  
-A custom web server built from scratch using **C++**. Check it out and see how I tackled systems-level programming challenges!
+### [Device Guard](https://github.com/Syed-Bipul-Rahman/device_gaurd)  
+Device Guard have robust anti-theft and security features, such as remote locking, sound playback to locate a lost device, and data erasure to safeguard sensitive information.
 
 ---
 
